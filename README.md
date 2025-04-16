@@ -35,7 +35,7 @@ Welcome to the 30 GitHub Hello World Challenge! The goal is to write "Hello worl
 | 19  | [Julia](https://julialang.org/)                                                      | [hello.jl](hello.jl)   | Hard             |    ✅       |     16.04.2025          |
 | 20  | [Dart](https://dart.dev/)                                                            | [hello.dart](hello.dart)| Hard            |   ✅        |   16.04.2025            |
 | 21  | [Shell](https://thevaluable.dev/guide-terminal-shell-console/)                       | [hello.sh](hello.sh)   | Hard             |   ✅        |     16.04.2025           |
-| 22  | [F#](https://fsharp.org/)                                                            | [hello.fs](hello.fs)   | Hard             |           |               |
+| 22  | [F#](https://fsharp.org/)                                                            | [hello.fs](hello.fs)   | Hard             |   ✅        |    16.04.2025           |
 | 23  | [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) | [hello.m](hello.m)     | Hard             |           |               |
 | 24  | [Groovy](https://groovy-lang.org/)                                                   | [hello.groovy](hello.groovy)| Hard       |           |               |
 | 25  | [MATLAB](https://www.mathworks.com/)                                                 | [hello.m](hello.m)     | Hard             |           |               |

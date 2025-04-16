@@ -39,7 +39,7 @@ Welcome to the 30 GitHub Hello World Challenge! The goal is to write "Hello worl
 | 23  | [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) | [hello.m](hello.m)     | Hard             |     ✅      |     16.04.2025          |
 | 24  | [Groovy](https://groovy-lang.org/)                                                   | [hello.groovy](hello.groovy)| Hard       |    ✅        |     16.04.2025          |
 | 25  | [MATLAB](https://www.mathworks.com/)                                                 | [hello.m](hello.m)     | Hard             |           |               |
-| 26  | [Fortran](https://fortran-lang.org/)                                                 | [hello.f90](hello.f90) | Hard             |           |               |
+| 26  | [Fortran](https://fortran-lang.org/)                                                 | [hello.f90](hello.f90) | Hard             |      ✅     |      16.04.2025         |
 | 27  | [COBOL](https://developer.ibm.com/languages/cobol/)                                  | [hello.cbl](hello.cbl) | Hard             |           |               |
 | 28  | [Pascal](https://www.freepascal.org/)                                                | [hello.pas](hello.pas) | Hard             |           |               |
 | 29  | [Ada](https://ada-lang.io/)                                                          | [hello.adb](hello.adb) | Hard             |           |               |

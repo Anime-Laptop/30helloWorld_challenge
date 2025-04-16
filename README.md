@@ -16,7 +16,7 @@ Welcome to the 30 GitHub Hello World Challenge! The goal is to write "Hello worl
 | 0   | [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)                               | [hello.cs](hello.cs)   | Easy             |  ✅         |  16.04.202          |
 | 1   | [Python](https://python.org/)                                                        | [hello.py](hello.py)   | Easy             | ✅         | 16.04.2025     |
 | 2   | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)                | [hello.js](hello.js)   | Easy             |  ✅         | 16.04.2025               |
-| 3   | [Ruby](https://www.ruby-lang.org/)                                                   | [hello.rb](hello.rb)   | Easy             |           |               |
+| 3   | [Ruby](https://www.ruby-lang.org/)                                                   | [hello.rb](hello.rb)   | Easy             |  ✅         |16.04.2025                 |
 | 4   | [Java](https://www.java.com/)                                                        | [hello.java](hello.java)| Medium           | ✅          |      16.04.2025         |
 | 5   | [C](https://www.cprogramming.com/)                                                   | [hello.c](hello.c)     | Medium           |  ✅          |      16.04.2025          |
 | 6   | [C++](https://cplusplus.com/)                                                        | [hello.cpp](hello.cpp) | Medium           |  ✅         |      16.04.2025         |

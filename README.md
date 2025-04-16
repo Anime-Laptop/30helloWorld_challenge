@@ -26,7 +26,7 @@ Welcome to the 30 GitHub Hello World Challenge! The goal is to write "Hello worl
 | 10  | [Swift](https://www.swift.org/)                                                      | [hello.swift](hello.swift)| Medium        |    ✅       |     16.04.2025           |
 | 11  | [PHP](https://www.php.net/)                                                          | [hello.php](hello.php) | Medium           |    ✅       |     16.04.2025           |
 | 12  | [TypeScript](https://www.typescriptlang.org/)                                        | [hello.ts](hello.ts)   | Medium           |  ✅         |    16.04.2025            |
-| 13  | [Perl](https://www.perl.org/)                                                        | [hello.pl](hello.pl)   | Medium           |           |               |
+| 13  | [Perl](https://www.perl.org/)                                                        | [hello.pl](hello.pl)   | Medium           |   ✅        |    16.04.2025           |
 | 14  | [Haskell](https://www.haskell.org/)                                                  | [hello.hs](hello.hs)   | Hard             |           |               |
 | 15  | [Scala](https://www.scala-lang.org/)                                                 | [hello.scala](hello.scala)| Hard         |           |               |
 | 16  | [Elixir](https://elixir-lang.org/)                                                   | [hello.ex](hello.ex)   | Hard             |           |               |

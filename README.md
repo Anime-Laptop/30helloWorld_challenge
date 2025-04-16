@@ -17,7 +17,7 @@ Welcome to the 30 GitHub Hello World Challenge! The goal is to write "Hello worl
 | 1   | [Python](https://python.org/)                                                        | [hello.py](hello.py)   | Easy             | ✅         | 16.04.2025     |
 | 2   | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)                | [hello.js](hello.js)   | Easy             |           |               |
 | 3   | [Ruby](https://www.ruby-lang.org/)                                                   | [hello.rb](hello.rb)   | Easy             |           |               |
-| 4   | [Java](https://www.java.com/)                                                        | [hello.java](hello.java)| Medium           |           |               |
+| 4   | [Java](https://www.java.com/)                                                        | [hello.java](hello.java)| Medium           | ✅          |      16.04.2025         |
 | 5   | [C](https://www.cprogramming.com/)                                                   | [hello.c](hello.c)     | Medium           |           |               |
 | 6   | [C++](https://cplusplus.com/)                                                        | [hello.cpp](hello.cpp) | Medium           |           |               |
 | 7   | [Go](https://go.dev/)                                                                | [hello.go](hello.go)   | Medium           |           |               |

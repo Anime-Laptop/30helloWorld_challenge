@@ -32,7 +32,7 @@ Welcome to the 30 GitHub Hello World Challenge! The goal is to write "Hello worl
 | 16  | [Elixir](https://elixir-lang.org/)                                                   | [hello.ex](hello.ex)   | Hard             |   ✅        |    16.04.2025          |
 | 17  | [R](https://www.r-project.org/)                                                      | [hello.r](hello.r)     | Hard             |   ✅        |     16.04.2025          |
 | 18  | [Lua](https://www.lua.org/)                                                          | [hello.lua](hello.lua) | Hard             |    ✅       |    16.04.2025           |
-| 19  | [Julia](https://julialang.org/)                                                      | [hello.jl](hello.jl)   | Hard             |           |               |
+| 19  | [Julia](https://julialang.org/)                                                      | [hello.jl](hello.jl)   | Hard             |    ✅       |     16.04.2025          |
 | 20  | [Dart](https://dart.dev/)                                                            | [hello.dart](hello.dart)| Hard            |           |               |
 | 21  | [Shell](https://thevaluable.dev/guide-terminal-shell-console/)                       | [hello.sh](hello.sh)   | Hard             |           |               |
 | 22  | [F#](https://fsharp.org/)                                                            | [hello.fs](hello.fs)   | Hard             |           |               |

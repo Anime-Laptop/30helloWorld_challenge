@@ -21,7 +21,7 @@ Welcome to the 30 GitHub Hello World Challenge! The goal is to write "Hello worl
 | 5   | [C](https://www.cprogramming.com/)                                                   | [hello.c](hello.c)     | Medium           |  ✅          |      16.04.2025          |
 | 6   | [C++](https://cplusplus.com/)                                                        | [hello.cpp](hello.cpp) | Medium           |  ✅         |      16.04.2025         |
 | 7   | [Go](https://go.dev/)                                                                | [hello.go](hello.go)   | Medium           |           |               |
-| 8   | [Rust](https://www.rust-lang.org/)                                                   | [hello.rs](hello.rs)   | Medium           |           |               |
+| 8   | [Rust](https://www.rust-lang.org/)                                                   | [hello.rs](hello.rs)   | Medium           |  ✅         |    16.04.2025           |
 | 9   | [Kotlin](https://kotlinlang.org/)                                                    | [hello.kt](hello.kt)   | Medium           |           |               |
 | 10  | [Swift](https://www.swift.org/)                                                      | [hello.swift](hello.swift)| Medium        |           |               |
 | 11  | [PHP](https://www.php.net/)                                                          | [hello.php](hello.php) | Medium           |           |               |

@@ -18,8 +18,8 @@ Welcome to the 30 GitHub Hello World Challenge! The goal is to write "Hello worl
 | 2   | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)                | [hello.js](hello.js)   | Easy             |           |               |
 | 3   | [Ruby](https://www.ruby-lang.org/)                                                   | [hello.rb](hello.rb)   | Easy             |           |               |
 | 4   | [Java](https://www.java.com/)                                                        | [hello.java](hello.java)| Medium           | ✅          |      16.04.2025         |
-| 5   | [C](https://www.cprogramming.com/)                                                   | [hello.c](hello.c)     | Medium           |           |               |
-| 6   | [C++](https://cplusplus.com/)                                                        | [hello.cpp](hello.cpp) | Medium           |           |               |
+| 5   | [C](https://www.cprogramming.com/)                                                   | [hello.c](hello.c)     | Medium           |  ✅          |      16.04.2025          |
+| 6   | [C++](https://cplusplus.com/)                                                        | [hello.cpp](hello.cpp) | Medium           |  ✅         |      16.04.2025         |
 | 7   | [Go](https://go.dev/)                                                                | [hello.go](hello.go)   | Medium           |           |               |
 | 8   | [Rust](https://www.rust-lang.org/)                                                   | [hello.rs](hello.rs)   | Medium           |           |               |
 | 9   | [Kotlin](https://kotlinlang.org/)                                                    | [hello.kt](hello.kt)   | Medium           |           |               |

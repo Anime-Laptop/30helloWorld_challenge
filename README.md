@@ -42,7 +42,7 @@ Welcome to the 30 GitHub Hello World Challenge! The goal is to write "Hello worl
 | 26  | [Fortran](https://fortran-lang.org/)                                                 | [hello.f90](hello.f90) | Hard             |      ✅     |      16.04.2025         |
 | 27  | [COBOL](https://developer.ibm.com/languages/cobol/)                                  | [hello.cbl](hello.cbl) | Hard             |   ✅        |      17.04.2025         |
 | 28  | [Pascal](https://www.freepascal.org/)                                                | [hello.pas](hello.pas) | Hard             |    ✅       |      17.04.2025         |
-| 29  | [Ada](https://ada-lang.io/)                                                          | [hello.adb](hello.adb) | Hard             |           |               |
+| 29  | [Ada](https://ada-lang.io/)                                                          | [hello.adb](hello.adb) | Hard             |    ✅       |      17.04.2025         |
 | 30  | [Assembly (x86)](https://cs.lmu.edu/~ray/notes/x86assembly/)                         | [hello.asm](hello.asm) | Very Hard        |           |               |
 | *31 | [Brainfuck](https://brainfuck.org/)                                                  | [hello.bf](hello.bf)   | Super Hard       |           |               |
 | *32 | [Malbolge](https://malbolge.doleczek.pl/)                                            | [hello.mal](hello.mal) | Super Hard       |           |               |
